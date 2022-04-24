@@ -1,2 +1,3 @@
 # WUM-proj1
-tba
+Project 1 for Introduction to Machine Learning course.    
+Note: All comments in Polish language.
